@@ -5,6 +5,7 @@ List of artifacts and their passives. Along with current viable teams and guides
 
 
 # Schema
+React Native (front end)
 Raids
 -
 - Dawn of Apokolips (doa)
