@@ -7,4 +7,12 @@ List of artifacts and their passives. Along with current viable teams and guides
 # Schema
 Tags
 - 
--
+- Dot
+- Power Steal
+- Slow Power
+- Critical Attack
+- Lethal Attack
+- Hazards
+- Damage
+- Reflective Damage
+
