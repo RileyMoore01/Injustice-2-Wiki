@@ -6,6 +6,8 @@ List of artifacts and their passives. Along with current viable teams and guides
 
 # Schema
 React Native (front end)
+ - Expo framework
+Supabase (backend)
 
 Raids
 -
