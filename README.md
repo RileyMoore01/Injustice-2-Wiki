@@ -1,5 +1,5 @@
 # Injustice2DB
-List of artifacts and their passives. Along with current viable teams and guides
+<a href='https://dcgamessupport.wbgames.com/hc/en-us/articles/360040362553-Injustice-2-Mobile-Artifacts'>List of artifacts</a> and their passives. Along with current viable teams and guides
 
 <a href='https://docs.google.com/spreadsheets/d/18LYwEfntvGmVpX3JGmUC4YlvxVC3oKz_bABcW3UNsoU/edit?gid=0#gid=0'>List of artifacts</a>
 
